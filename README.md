@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rpania30
+- 👀 I’m interested in technological disruption in software applications, data analytics, renewable energy, and electric vehicles 
+- 🌱 I’m currently learning data structures, web development, database interactions, and cybersecurity principles
+- 💞️ I’m looking to collaborate on mobile and web application development
+- 📫 How to reach me ...
