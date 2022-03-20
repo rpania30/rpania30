@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rpania30
 - 👀 I’m interested in technological disruption in software applications, data analytics, renewable energy, and electric vehicles 
-- 🌱 I’m currently learning data structures, web development, machine learning, and cybersecurity principles
+- 🌱 I’m currently learning data structures, web development, and cybersecurity principles
 - 💞️ I’m looking to collaborate with engineers on mobile/web applications
 - 📫 Reach me at rpania@gmu.edu
