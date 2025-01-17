@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rpania30
-- 👀 I’m interested in software products
-- 🌱 I’m currently learning ui/ux and machine learning models
-- 📫 Reach me at rpania@gmu.edu
+- 👀 I like startups
+- 🌱 I’m currently learning about data mining and machine learning
+- 📫 Reach me at rishipania@gmail.com
